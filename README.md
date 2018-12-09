@@ -2,6 +2,7 @@
 
 [![install size](https://packagephobia.now.sh/badge?p=pascua)](https://packagephobia.now.sh/result?p=pascua)
 [![gzip size](https://img.badgesize.io/https://unpkg.com/pascua/dist/pascua.js?compression=gzip)](https://unpkg.com/pascua/dist/pascua.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farchemiro%2Fpascua.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Farchemiro%2Fpascua?ref=badge_shield)
 
 [![npm version](https://badge.fury.io/js/pascua.svg)](https://badge.fury.io/js/pascua)
 [![Build Status](https://travis-ci.com/archemiro/pascua.svg?branch=master)](https://travis-ci.com/archemiro/pascua)
@@ -118,3 +119,6 @@ Si se omite el año como argumento, por defecto se usará el año actual.
 ## Licencia
 
 [MIT](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farchemiro%2Fpascua.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Farchemiro%2Fpascua?ref=badge_large)
